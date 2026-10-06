@@ -1,0 +1,36 @@
+dept_id,dept_name,college
+D001,Chemistry,Arts & Sciences
+D002,Physics,Arts & Sciences
+D003,Biology,Arts & Sciences
+D004,Mathematics,Arts & Sciences
+D005,History,Arts & Sciences
+D006,English,Arts & Sciences
+D007,Psychology,Arts & Sciences
+D008,Economics,Arts & Sciences
+D009,Mechanical Engineering,Engineering
+D010,Electrical Engineering,Engineering
+D011,Civil Engineering,Engineering
+D012,Computer Science,Engineering
+D013,Biomedical Engineering,Engineering
+D014,Nursing,Health Sciences
+D015,Public Health,Health Sciences
+D016,Pharmacy,Health Sciences
+D017,Medicine Research Labs,Health Sciences
+D018,Business School,Business
+D019,Law School,Law
+D020,Education,Education
+D021,University Library,Academic Support
+D022,Information Technology,Administration
+D023,Facilities Management,Administration
+D024,Campus Dining,Auxiliary
+D025,Housing & Residence Life,Auxiliary
+D026,Athletics,Auxiliary
+D027,Student Affairs,Administration
+D028,Admissions,Administration
+D029,Human Resources,Administration
+D030,Finance & Controller,Administration
+D031,Research Administration,Administration
+D032,Campus Police,Administration
+D033,Alumni Relations,Advancement
+D034,Communications & Marketing,Advancement
+D035,Graduate School,Academic Support

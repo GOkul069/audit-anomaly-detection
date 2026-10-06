@@ -1,0 +1,10 @@
+check,description,weight,flagged_transactions,flagged_amount_usd
+duplicate_payment,"Same vendor, amount and normalised invoice number paid more than once",5,592,1910430.02
+split_purchase,Near-threshold payments by one requester to one vendor within 7 days that together exceed $5k/$25k,4,818,7914812.600000001
+weekend_holiday_posting,AP voucher posted on a weekend or university holiday,2,641,2243322.0
+benford_deviation,"Requester's amounts fail the Benford first-digit test (MAD > 0.015, p < 0.001)",3,2688,4948131.859999999
+round_dollar,"Exact multiple of $1,000 (stipend / fellowship accounts excluded)",1,519,2318000.0
+vendor_amount_outlier,Robust z-score of log(amount) > 4 within the vendor's history,3,381,20336594.250000004
+new_vendor_large_payment,$25k+ paid to a vendor created < 90 days before posting,5,154,11361946.709999999
+self_approval,Requester approved their own transaction,5,299,877229.52
+sequence_gap,Voucher immediately after a missing AP voucher number,2,185,704150.73

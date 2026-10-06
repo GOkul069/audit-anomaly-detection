@@ -1,0 +1,25 @@
+account_code,account_name,account_group
+51010,Lab Supplies,Supplies
+51020,Office Supplies,Supplies
+51030,Computer Equipment < $5k,Supplies
+51040,Software Licences,Services
+52010,Professional Services,Services
+52020,Consulting,Services
+52030,Maintenance & Repairs,Services
+52040,Custodial Services,Services
+52050,Printing & Publications,Services
+53010,Utilities - Electricity,Utilities
+53020,Utilities - Gas & Water,Utilities
+54010,Travel - Airfare,Travel
+54020,Travel - Lodging,Travel
+54030,Meals & Hospitality,Travel
+55010,Capital Equipment,Capital
+55020,Building Improvements,Capital
+56010,Food Service Purchases,Auxiliary
+56020,Athletic Supplies,Auxiliary
+57010,Subscriptions & Memberships,Services
+57020,Event Services,Services
+58010,Student Stipends & Fellowships,Student Support
+58020,Sub-awards,Sponsored Programs
+59010,Freight & Shipping,Supplies
+59020,Rentals & Leases,Services
